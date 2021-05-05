@@ -1,0 +1,7 @@
+{
+  "name": "ionicRoot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
